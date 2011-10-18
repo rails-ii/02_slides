@@ -17,21 +17,22 @@ General stuff
 * ruby koans
 * when to schedule missing lectures
 * irc
-* exercise hours - Thu 12.00 - 14.00
+* exercise hours - Thu 12.00 - 14.00 (Skype)
 * participating is not mandatory
 * website is not there yet
 
-3rd exercise
+Third exercise
 -------------
 
-* has_many with UI, no scaffold!
+* has_many with UI, no scaffold
+* haml
 
 
 Rails news
--------------
+---------
 
-* Rails 3.1.1 (mostly bug fixes)
-
+* Rails 3.1.1
+* Bundler 1.1 pre
 
 Plan for today
 -------------
@@ -50,16 +51,25 @@ Tips for today
 -------------
 
 * Don't use scaffolds
+* Use haml
+
+Rails console
+-----------
+
+* useful for experiments
+* better than using MySQL directly
+
 
 Associations
 -------------
 
 * http://guides.rubyonrails.org/association_basics.html
+* has_many
+* belongs_to
 
-Finish
+Validations
 -------------
 
-[role="incremental"]
-- first
-- second
-- third
+* http://guides.rubyonrails.org/active_record_validations_callbacks.html
+* validates :description, :value, :presence => true
+* gem "dynamic_form"
