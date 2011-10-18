@@ -1,0 +1,65 @@
+Rails course, #2
+================
+:author:    Andrzej Krzywda
+:copyright: Andrzej Krzywda
+:backend:   slidy
+:max-width: 45em
+:data-uri:
+:icons:
+
+
+General stuff
+-------------
+
+* I'm sorry
+* 1st exercise
+* 2nd exercise (due next Tue)
+* ruby koans
+* when to schedule missing lectures
+* irc
+* exercise hours - Thu 12.00 - 14.00
+* participating is not mandatory
+* website is not there yet
+
+3rd exercise
+-------------
+
+* has_many with UI, no scaffold!
+
+
+Rails news
+-------------
+
+* Rails 3.1.1 (mostly bug fixes)
+
+
+Plan for today
+-------------
+
+* Coding a simple blog with comments
+* Haml, ActionView, ActiveRecord
+* Rails console
+* Migrations
+* Associations
+* 2-models UI (articles + comments), has_many
+* validations, deleting, editing the article, partials, callbacks, belongs_to
+* REST
+* Model2 - history
+
+Tips for today
+-------------
+
+* Don't use scaffolds
+
+Associations
+-------------
+
+* http://guides.rubyonrails.org/association_basics.html
+
+Finish
+-------------
+
+[role="incremental"]
+- first
+- second
+- third
